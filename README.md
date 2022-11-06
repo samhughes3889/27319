@@ -1,5 +1,4 @@
 # 27319
-Version control with a focus on GitHub and R
 
 This repository contains an analysis of git usage through time.
 
